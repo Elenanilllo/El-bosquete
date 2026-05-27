@@ -146,12 +146,11 @@ Tamnién, me gustaría modificar la banda sonora que he compuesto para añadirle
 
 - Godot Engine 4.x
 - Photoshop
-- -FL Studio
+-FL Studio
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
 
-* logos en https://creativecommons.org/mission/downloads/
+![](flstudio.png).      ![](photoshop.png).     ![](Godot.png).
+
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
