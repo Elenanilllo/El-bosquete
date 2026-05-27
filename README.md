@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Point and click / juego / drama / fantasía... etc.
 
 **Logotipo** : 
-nenebueno.png
+![](nenebueno.png)
 
 
 
