@@ -1,4 +1,4 @@
-## (El bosquete)
+## El bosquete
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -59,10 +59,7 @@ La madre desaparece entre los árboles del bosque y es secuestrada y despedazada
 
 
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![](Esquemadenavegacion.jpeg).
 
 
 
