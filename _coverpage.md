@@ -12,11 +12,10 @@
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por: Elena Zorrilla Lara
 
-### Enlace a Itch.io: ____________
-
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+### Enlace a Itch.io: https://elenanillo26.itch.io/el-bosquete
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 
