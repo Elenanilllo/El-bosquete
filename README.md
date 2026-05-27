@@ -79,7 +79,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 ## Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
-Para hacer este proyecto me he basado en juegos de Point and Click como Samorost3 o Machinarium del estudio Amanita Desing. Me he inspirado en las texturas y la mezcla de dibujo con fotografía para el apartado artístico.
+Para hacer este proyecto me he basado en juegos de Point and Click como Samorost 3 o Machinarium del estudio Amanita Desing. Me he inspirado en las texturas y la mezcla de dibujo con fotografía para el apartado artístico.
 También he tomado inspiración de cuentos populares y del papel que tiene el bosque en todos ellos.
 
 
@@ -115,31 +115,32 @@ Este  proyecto es interesante porque muestra una pequeña aventura en la que pod
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+En un principio quería hacer un proyecto mucho más largo, con más puzzles y que en cada puzzle el niño consiguiera un trozo de la madre y se le guardara en un menú hasta que llegara al último puzzle, obtuviera todos los trozos de la madre repartidos por el bosque y la pudiera reconstruir. Sin embargo por cuestiones de tiempo no he podido hacerlo tan extenso, por lo que he tenido que resolver el juego con un puzzle.
+Por otro lado, puede que no sea muy obvio a veces donde tiene que pinchar el jugador, por eso he puesto textos y he hecho que los botones se ilumínen al pasar el ratón por encima para que se pueda entender mejor.
+A pesar de que he puesto la música en bucle, deja de sonar en un punto y no he podido solucionarlo.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
+En un futuro me gustaría hacer los demás puzzles que tenía en mente, tenía la idea de 5 puzzles, uno por cada parte de la madre. También me gustaría hacer el mapa del bosque más amplio para que el jugador pueda explorar y perderse por el mundo. 
+Estoy orgullosa de la parte estética, pero si amplío el juego con los demás puzzles quedará todo con más sentido. Aun así, creo que se entiende toda la historia del juego.
+Tamnién, me gustaría modificar la banda sonora que he compuesto para añadirle quizás más sonidos y que quede más inversivo el juego.
 
 
 
 # 5 Referencias 
 
-**Artículos y blogs** 
+-Samorost 3. Amanita Desing. 2016
+-Machinarium. Amanita Desing. 2009
+-Botanicula. Amanita Desing. 2012
+-Inspiración en cuentos como Hänsel y Gretel, La vieja del bosque, La casa del bosque, Los doce hermanos, etc. De los Hermanos Grimm.
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica: Compuesta con el FL Studio. (Le he añadido grabaciones de sonidos ambientales).  
+* Imágenes: Fotografías propias, fotografías de internet y dibujos propios.  
+* Tipografía: Bosque encantado, de Juan Casco. En la página DaFont. 
 
 **Herramientas utilizadas**
 
