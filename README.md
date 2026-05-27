@@ -48,6 +48,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![](storyboard.png).
 
 
+![](nenevistas.png)
+
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
