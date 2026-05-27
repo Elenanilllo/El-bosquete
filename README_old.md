@@ -4,11 +4,11 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:** Elena Zorrilla Lara
 
-**Título:** 
+**Título:** El bosquete
 
-**Resumen:**
+**Resumen:** Un niño se pierde en el bosque y tiene que encontrar a su mama.
 
 **Licencia: (creative Commons)**
 
