@@ -51,6 +51,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![](vistasbuenas.png)
 ![](mama.png)
 ![](gallina.png)
+![](pollito.png).
+![](bicho.png).
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
