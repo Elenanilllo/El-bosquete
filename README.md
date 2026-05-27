@@ -45,7 +45,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
+![](storyboard (3).png)
 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
