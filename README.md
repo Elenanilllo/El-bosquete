@@ -59,7 +59,7 @@ La madre desaparece entre los árboles del bosque y es secuestrada y despedazada
 
 
 ### 2.2. Esquema de navegación 
-![](Esquemadenavegacion.jpeg).
+![](esquema.png).
 
 
 
