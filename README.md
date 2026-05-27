@@ -19,9 +19,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resumen** : Un niño se pierde en el bosque y tiene que encontrar a su mamá.
 **Estilo/género:**  Point and click / juego / drama / fantasía... etc.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : cuerpo entero.png
 
-(insertar imágenes a resolucion de 100px alto)
+
 
 **Resolución:** 1152x648px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
